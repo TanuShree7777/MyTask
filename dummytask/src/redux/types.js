@@ -1,0 +1,6 @@
+export const  ADD_USER = "ADD_USER"
+export const DELETE_USER = "DELETE_USER"
+export const UPDATE_USER = "UPDATE_USER"
+export const USER_INFO = "USER_INFO"
+export const CLEAR_INFO = "CLEAR_INFO"
+export const USERS = "USERS"
